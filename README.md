@@ -9,3 +9,8 @@ if number % 2 == 0:
     print(number, "is an even number.")
 else:
     print(number, "is an odd number.")
+
+
+ output:
+ Enter a number: 7
+7 is an odd number.
